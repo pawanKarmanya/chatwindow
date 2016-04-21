@@ -1,0 +1,10 @@
+.window{
+    
+    height: 260px;
+    width: 260px;
+    border: 1px solid black;
+    overflow-y: scroll;
+}
+textarea{
+    
+}
